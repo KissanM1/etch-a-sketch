@@ -1,0 +1,17 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    gap: 2px;
+}
+
+.row div {
+    width: 20px;
+    height: 20px;
+    background-color: aqua;
+}
+
+.row {
+    display: flex;
+    gap: 2px;
+}
+
